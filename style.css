@@ -1,0 +1,83 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+}
+.banar{
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  background-image: url(images/donation13.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height:600px;
+}
+.up-down{
+  margin-top: 50px;
+}
+.margin{
+  margin-bottom: 100px;
+}
+.link-button{
+  color: white;
+  text-decoration: none;
+  border: 4px solid white;
+  border-radius: 10px;
+  background-color: tomato;
+  padding: 10px 20px;   
+}
+.orange-color{
+  color: orange;
+}
+.donate-property{
+  text-align: center;
+}
+.property{
+  display: flex;
+  width: 100%;
+}
+.money{
+  display:flex;
+  width: 100% ;
+  height: 160px;
+}
+.border{
+  border:4px solid orange;
+}
+.flexbox{
+  box-shadow: 10px 10px 30px gray;
+  width: 100%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-top: 50px;
+}
+.contribute-content {
+  display:flex ;
+ width: 100%;
+ background-repeat: no-repeat;
+}
+.image{
+  height: 450px;
+}
+.contribute-text {
+  width: 40%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+.flexbox1{ 
+  width:35%;
+  margin-left: 2%;
+  margin-right: 2%;
+  padding-left: 15px; 
+  background-color:rgb(188, 236, 255);
+  box-shadow: 10px 10px 20px gray;
+}
+.my-update{
+  background-color: antiquewhite;
+  width: 100%;
+}
+.foot{
+  text-align: center;
+  background-color: black;
+  color: white;
+  height: 150px;
+}
